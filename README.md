@@ -44,11 +44,11 @@ envname\scripts\activate
 
 --> home :
 
-![preview](https://drive.google.com/uc?export=view&id=1rjDJrHQrMsaaS0s9Z7zVcR18Pc1-iLpa)
+![preview](https://drive.google.com/uc?export=view&id=18RXb4WasRGIRgbJP5OaJueAo0wks0FaA/)
 
 
 --> Edit profile:
 
-![preview](https://drive.google.com/uc?export=view&id=1OZ7AZxlXDJ9bMsmhkjnmmLzZ-0gl9Dpm)
+![preview](https://drive.google.com/uc?export=view&id=1zSUHOs6IsWW0uoFaAP_JYwLQVLAynkSn)
 
 
